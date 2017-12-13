@@ -1,0 +1,19 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francesco Zaia <francesco.zaia@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "tablesaw": "^3.0.0",
+    "webpack": "^3.4.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2"
+  }
+}
