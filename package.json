@@ -9,7 +9,7 @@
   "author": "Francesco Zaia <francesco.zaia@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "tablesaw": "^3.0.0",
+    "tablesaw": "3.0.8-beta.1",
     "webpack": "^3.4.1"
   },
   "devDependencies": {
